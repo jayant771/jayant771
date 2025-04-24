@@ -21,12 +21,12 @@
 ### 🧩 Current Focus
 - ✅ Daily GitHub commits
 - ✅ Building real-world projects
-- ✅ Posting progress on [LinkedIn](https://www.linkedin.com/in/your-profile) @ 7 PM IST daily
+- ✅ Posting progress on [LinkedIn](https://www.linkedin.com/in/jayant-anand-299962155/) @ 7 PM IST daily
 
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/jayant-anand-299962155/)
 - GitHub: [github.com/jayant771](https://github.com/jayant771)
 
 ---
