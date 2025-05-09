@@ -1,49 +1,52 @@
-<h1 align="center">Hi 👋, I'm Jayant</h1>
-<h3 align="center">A passionate Full Stack Developer and AI Enthusiast from India 🇮🇳</h3>
+<h1 align="center">✨ Jayant Anand ✨</h1>
+<h3 align="center">🚀 MERN Stack Developer | 🧠 Lifelong Learner | 💡 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;
-    AI+Explorer+%7C+MicroServices+Beginner;Open+Source+Lover+%F0%9F%92%9A;Back+End+Engineer+%F0%9F%92%9A;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jayant+Anand!;Full+Stack+MERN+Developer+%F0%9F%9A%80;I+build+cool+and+intelligent+apps!;Let's+create+something+awesome+together!+%F0%9F%92%BB" alt="Jayant Anand Typing SVG" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently working on: **Smart Personal Finance Tracker (SPFT)** – a MERN Stack app with AI suggestions
-- 🧠 Learning **Java for DSA** and building strong problem-solving skills
-- 🛠️ Tech Stack: `MongoDB`, `Express`, `React`, `Node.js`, `JavaScript`, `Tailwind CSS`
-- 🔭 I’m exploring: **AI Integration**, **Gemini API**, and **Open Source**
-- ✨ I love documenting progress and sharing daily commits on GitHub
-- 💬 Ask me about **MERN Stack**, **Git/GitHub**, or **AI APIs**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+</div>
 
 ---
 
-### 🧩 Current Focus
-- ✅ Daily GitHub commits
-- ✅ Building real-world projects
-- ✅ Posting progress on [LinkedIn](https://www.linkedin.com/in/jayant-anand-299962155/) @ 7 PM IST daily
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+</div>
 
 ---
 
-### 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/jayant-anand-299962155/)
-- GitHub: [github.com/jayant771](https://github.com/jayant771)
+### 🧠 Currently Learning
+
+- Advanced Backend (OAuth2.0, Microservices)
+- AI-Powered Features in Full Stack
+- Data Structures & Algorithms with Java
 
 ---
 
-### 🧰 Tools I Use:
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,tailwind,java,git,github,vscode" alt="My Skills" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayantanand&theme=tokyonight&show_icons=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantanand&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantanand&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayant771&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant771&theme=radical" width="47%" />
-</p>
+### 🚀 Featured Project
 
----
-
-⭐ *Thanks for visiting my profile. Let’s connect, build, and grow together!*
-
+```bash
+💡 Smart Personal Finance Tracker
+🔗 MERN Stack + AI | Track, Analyze & Save 💸
+🎯 Features: Auth, Analytics, AI Suggestions, Clean UI
