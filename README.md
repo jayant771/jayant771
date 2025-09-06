@@ -46,7 +46,7 @@
 
 ### 🚀 Featured Project
 
-```bash
+``bash
 💡 Smart Personal Finance Tracker
 🔗 MERN Stack + AI | Track, Analyze & Save 💸
 🎯 Features: Auth, Analytics, AI Suggestions, Clean UI
